@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: 'http://www.willyforeal.com'
   facebook: null
   twitter: null
 opengraph:
